@@ -1,0 +1,14 @@
+0 Cross
+1 Diamond
+2 Octagon
+3 Star
+4 Pac Man
+5 Recycle
+6 Stop
+7 Fingerprint
+8 Danger
+9 QR
+10 Trapezium
+11 Major Segment
+12 Arrow
+13 Idle
